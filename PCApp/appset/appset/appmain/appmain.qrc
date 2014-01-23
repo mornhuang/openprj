@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/appset.ico</file>
+        <file>images/appset.png</file>
+        <file>images/appset.svg</file>
+        <file>images/help.png</file>
+        <file>images/quit.png</file>
+        <file>images/setting.png</file>
+        <file>images/default.png</file>
+    </qresource>
+</RCC>
